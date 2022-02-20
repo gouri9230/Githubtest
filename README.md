@@ -1,2 +1,2 @@
-# Githubtest
-Testing how to create repository and upload files
+# PythonCoder
+Repository for practicing python programs
