@@ -12,7 +12,7 @@ class fibonacci:
         if(self.num >= self.count):
             current = self.first + self.second
             self.first = self.second
-            self.second = current
+            self.secon = current
             self.count+=1
             return current
         else:
